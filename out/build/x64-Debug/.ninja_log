@@ -1,0 +1,12 @@
+# ninja log v5
+11	666	6900905657675950	CMakeFiles/untitled5.dir/src/DataModels/Client.cpp.obj	f09539bcf0566352
+27	749	6900905658475683	CMakeFiles/untitled5.dir/src/DataModels/Model.cpp.obj	9271121c76c04270
+7	805	6900905658935627	CMakeFiles/untitled5.dir/src/DataModels/Car.cpp.obj	e17a1453b221454d
+22	888	6900905659885749	CMakeFiles/untitled5.dir/src/DataModels/Color.cpp.obj	e337278a8d590120
+5	1027	6900905660765515	CMakeFiles/untitled5.dir/src/main.cpp.obj	85fcb8c659122cf2
+1	1687	6900905667673248	CMakeFiles/untitled5.dir/src/DataModels/Company.cpp.obj	176c0912abe5b7bb
+805	1837	6900905669373057	CMakeFiles/untitled5.dir/src/utils.cpp.obj	3dd4f088084ff1b1
+888	1928	6900905670322881	CMakeFiles/untitled5.dir/src/DataModels/Invoice.cpp.obj	88866805f6b33008
+749	1933	6900905670407789	CMakeFiles/untitled5.dir/src/queries.cpp.obj	849db48994a98f2e
+709	2099	6900905672077379	CMakeFiles/untitled5.dir/src/seed_database.cpp.obj	48a5bec32486f50
+2099	2546	6900905676343116	untitled5.exe	1ab507654791b5e3

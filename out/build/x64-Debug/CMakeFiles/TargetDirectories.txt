@@ -1,0 +1,3 @@
+C:/Users/ПК/Desktop/Здача практики/Код/out/build/x64-Debug/CMakeFiles/untitled5.dir
+C:/Users/ПК/Desktop/Здача практики/Код/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ПК/Desktop/Здача практики/Код/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
